@@ -12,7 +12,7 @@ Original:
 Sample result:
 ![alt text][sample_image_script_7]
 
-[sample_image_script_7]: https://goo.gl/photos/zC4MVNS6otqudaHn9 "Sample script 7"
+[sample_image_script_7]: https://lh3.googleusercontent.com/xs37tikzdPGCNG9GglVO2PZ2Rfi0qQIDatX2D1XdNbYvs3xAHt3a1O1rx3kiBTCbZretCBfd6-lk=s640-no "Sample script 7"
 
 # Script 6 - Spectrum Kelly
 
